@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="Reversi.csproj" />
+  <Project Path="Reversi.Business/Reversi.Business.csproj" />
+  <Project Path="Reversi.Data/Reversi.Data.csproj" />
+  <Project Path="Reversi.UI/Reversi.UI.csproj" />
 </Solution>
